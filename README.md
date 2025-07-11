@@ -6,7 +6,7 @@ This project implements an end-to-end **ETL (Extract, Transform, Load)** data pi
 
 ---
 ## 🧱 Architecture
-![FDA ETL Architecture](https://raw.githubusercontent.com/sujalrajulwar/fda-etl-data-pipeline/main/architecture.png)
+![FDA ETL Architecture](https://github.com/sujalrajulwar/fda-etl-data-pipeline/blob/main/architecture.drawio.png)
 
 ---
 
