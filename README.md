@@ -5,6 +5,8 @@
 This project implements an end-to-end **ETL (Extract, Transform, Load)** data pipeline using the **FDA Adverse Event Reporting API** and **AWS services**. It collects drug event data related to *Paracetamol*, processes and transforms it, and loads it into **Amazon S3** for querying with **Amazon Athena**.
 
 ---
+## 🧱 Architecture
+![FDA ETL Architecture](https://raw.githubusercontent.com/sujalrajulwar/fda-etl-data-pipeline/main/architecture.png)
 
 ---
 
